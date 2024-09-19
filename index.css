@@ -1,3 +1,8 @@
+* {
+    min-width: auto;
+    min-height: auto;
+}
+
 body {
     margin: 0;
     display: flex;
@@ -53,7 +58,7 @@ button:active {
 }
 
 .op {
-    background-color: hsl(35, 100%, 55%);
+    background-color: orange;
 }
 
 .op:hover {
